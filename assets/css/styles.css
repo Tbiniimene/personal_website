@@ -8,7 +8,7 @@
 
 /*===== Colores =====*/
 :root{
-  --first-color: #4070F4;
+  --first-color: #275ca8;
   --second-color: #0E2431;
 }
 
@@ -316,7 +316,7 @@ img{
 
 }
 .work__img img{
-  width:400px;
+  width:100%;
   height: 250px;
   transition: 1s;
   cursor: pointer;
@@ -419,7 +419,7 @@ img{
   }
   .home__img{
     width: 457px;
-    bottom: 15%;
+    bottom: 25%;
   }
 
   .about__container, .skills__container{
